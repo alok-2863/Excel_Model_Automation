@@ -1,1 +1,2 @@
 1.3.0
+https://your-onedrive-or-github-link.com/YourAppInstaller.exe
